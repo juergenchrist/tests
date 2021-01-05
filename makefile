@@ -1,6 +1,7 @@
 all: main
 
 test: main
+	uname -a
 	./main
 
 clean:
