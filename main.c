@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Some simple endianness test
 int main(void)
 {
 	const int x = 1;
